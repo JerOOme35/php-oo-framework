@@ -25,9 +25,9 @@
 
     <testsuites>
         <testsuite name="Intro">
-            <file>test/app/Entity/UserTest</file>
-            <file>test/app/Repository/UserRepositoryTest</file>
-            <file>test/app/Manager/UserManagerTest</file>
+            <file>tests/App/Entity/UserTest.php</file>
+            <file>tests/App/Repository/UserRepositoryTest.php</file>
+            <file>tests/App/Manager/UserManagerTest.php</file>
         </testsuite>
         <testsuite name="Form">
             <directory>tests/Form</directory>
